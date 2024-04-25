@@ -1,8 +1,15 @@
 ### Hi there 👋
+### Привет 👋
+
+### I'm currently working on [my discord bot](https://github.com/kotisoff/kitbot)
+
+### Coding on
+- JavaScript
+- TypeScript
+
+Currently studying at "МБОУ Кузнецовская СОШ".
 
 <!--
-**kotisoff/kotisoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
