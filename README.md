@@ -7,8 +7,6 @@
 - JavaScript
 - TypeScript
 
-Currently studying at "МБОУ Кузнецовская СОШ".
-
 <!--
 Here are some ideas to get you started:
 
