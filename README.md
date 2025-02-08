@@ -6,6 +6,7 @@
 ### Coding on
 - JavaScript
 - TypeScript
+- Lua
 
 <!--
 Here are some ideas to get you started:
