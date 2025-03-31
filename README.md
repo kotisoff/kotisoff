@@ -1,12 +1,15 @@
-### Hi there 👋
-### Привет 👋
+## Привет 👋
 
-### I'm currently working on [my discord bot](https://github.com/kotisoff/kitbot)
+### Пишу (стараюсь) на
 
-### Coding on
 - JavaScript
 - TypeScript
 - Lua
+
+## Статы
+
+![kotisoff's Stats](https://github-readme-stats.vercel.app/api?username=kotisoff&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![kotisoff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kotisoff&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 Here are some ideas to get you started:
